@@ -1,1 +1,5 @@
 Something
+
+- A soft reset preserves changes made -- brings them back to staging (git "add"), the step before "commit"
+
+- A hard reset gets rid of changes you just committed and reverts back to the specified "HEAD"
